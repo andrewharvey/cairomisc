@@ -1,0 +1,4 @@
+Misc Cairo Programs...
+
+= checkerboard.pl =
+Perl program using Cairo to make a checkerboard image.
