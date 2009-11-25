@@ -1,4 +1,4 @@
-Misc Cairo Programs...
+Misc Cairo Programs. See each file for details. This is just an index.
 
 = checkerboard.pl =
 Perl program using Cairo to make a checkerboard image.
