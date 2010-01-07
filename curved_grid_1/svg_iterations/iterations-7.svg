@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500pt" height="500pt" viewBox="0 0 500 500" version="1.1">
+<g id="surface0">
+<path style="fill:none;stroke-width:7.142857;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.285714;stroke-miterlimit:10;" d="M 0 0 L 0 500 "/>
+<path style="fill:none;stroke-width:7.142857;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.285714;stroke-miterlimit:10;" d="M 0 500 L 500 500 "/>
+<path style="fill:none;stroke-width:5.714286;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.428571;stroke-miterlimit:10;" d="M 0 0 L 0 500 "/>
+<path style="fill:none;stroke-width:5.714286;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.428571;stroke-miterlimit:10;" d="M 0 250 L 250 500 "/>
+<path style="fill:none;stroke-width:5.714286;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.428571;stroke-miterlimit:10;" d="M 0 500 L 500 500 "/>
+<path style="fill:none;stroke-width:4.285714;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.571429;stroke-miterlimit:10;" d="M 0 0 L 0 500 "/>
+<path style="fill:none;stroke-width:4.285714;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.571429;stroke-miterlimit:10;" d="M 0 166.667969 L 166.667969 500 "/>
+<path style="fill:none;stroke-width:4.285714;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.571429;stroke-miterlimit:10;" d="M 0 333.332031 L 333.332031 500 "/>
+<path style="fill:none;stroke-width:4.285714;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.571429;stroke-miterlimit:10;" d="M 0 500 L 500 500 "/>
+<path style="fill:none;stroke-width:2.857143;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.714286;stroke-miterlimit:10;" d="M 0 0 L 0 500 "/>
+<path style="fill:none;stroke-width:2.857143;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.714286;stroke-miterlimit:10;" d="M 0 125 L 125 500 "/>
+<path style="fill:none;stroke-width:2.857143;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.714286;stroke-miterlimit:10;" d="M 0 250 L 250 500 "/>
+<path style="fill:none;stroke-width:2.857143;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.714286;stroke-miterlimit:10;" d="M 0 375 L 375 500 "/>
+<path style="fill:none;stroke-width:2.857143;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.714286;stroke-miterlimit:10;" d="M 0 500 L 500 500 "/>
+<path style="fill:none;stroke-width:1.428571;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.857143;stroke-miterlimit:10;" d="M 0 0 L 0 500 "/>
+<path style="fill:none;stroke-width:1.428571;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.857143;stroke-miterlimit:10;" d="M 0 100 L 100 500 "/>
+<path style="fill:none;stroke-width:1.428571;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.857143;stroke-miterlimit:10;" d="M 0 200 L 200 500 "/>
+<path style="fill:none;stroke-width:1.428571;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.857143;stroke-miterlimit:10;" d="M 0 300 L 300 500 "/>
+<path style="fill:none;stroke-width:1.428571;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.857143;stroke-miterlimit:10;" d="M 0 400 L 400 500 "/>
+<path style="fill:none;stroke-width:1.428571;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.857143;stroke-miterlimit:10;" d="M 0 500 L 500 500 "/>
+<path style="fill:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 500 500 C 367.390625 500 240.214844 447.320312 146.445312 353.554688 C 52.679688 259.785156 0 132.609375 0 0 "/>
+</g>
+</svg>
